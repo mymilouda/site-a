@@ -1,0 +1,3 @@
+[Mon Feb 18 13:13:00.884486 2019] [autoindex:error] [pid 20478] [client 127.0.0.1:58022] AH01276: Cannot serve directory /Users/arnaudbodel/Sites/netlab/DIW11/site_a/public/: No matching DirectoryIndex (index.php,index.html,index.html,index.php) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 18 14:49:57.132804 2019] [php7:error] [pid 20491] [client 127.0.0.1:55138] script '/Users/arnaudbodel/Sites/netlab/DIW11/site_a/public/info.php' not found or unable to stat
+[Tue Feb 19 17:24:34.332828 2019] [php7:error] [pid 32605] [client 127.0.0.1:50537] script '/Users/arnaudbodel/Sites/netlab/DIW11/site_a/public/chaines.php' not found or unable to stat
